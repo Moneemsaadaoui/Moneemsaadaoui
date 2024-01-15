@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moneemsaadaoui&label=Profile%20views&color=0e75b6&style=flat" alt="moneemsaadaoui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moneemsaadaoui" alt="moneemsaadaoui" /></a> </p>
-
 - 🔭 I’m currently working on Skinify.ai ! [Skinify.ai](Skinify.ai)
 
 - 👨‍💻 All of my projects are available at [https://moneemsaadaoui.github.io/](https://moneemsaadaoui.github.io/)
@@ -17,10 +15,14 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdel-moneem-saadaoui/](https://www.linkedin.com/in/abdel-moneem-saadaoui/)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@moneemsaadaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@moneemsaadaoui" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdel-moneem-saadaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdel-moneem-saadaoui" height="30" width="40" /></a>
+<a href="https://medium.com/@contact.moneem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@contact.moneem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,5 +32,3 @@
 <p><a href="https://www.buymeacoffee.com/moneemsaadaoui"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="moneemsaadaoui" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moneemsaadaoui&show_icons=true&locale=en&layout=compact" alt="moneemsaadaoui" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moneemsaadaoui&" alt="moneemsaadaoui" /></p>
